@@ -197,7 +197,7 @@
       "url": "musique.styles.css"
     },
     {
-      "hash": "sha256-BEPi3vIRsoiqKB91bwA5yB1uX+L5teEdWu\/YpHd\/E\/8=",
+      "hash": "sha256-i5v4I1DX4Ar\/QxgDpVclddGMCDIVQ9vhPX6zjbYrod8=",
       "url": "404.html"
     },
     {
@@ -265,7 +265,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-BEPi3vIRsoiqKB91bwA5yB1uX+L5teEdWu\/YpHd\/E\/8=",
+      "hash": "sha256-RwT967DWZEClDb0ehg4k61O\/79zlyUber2rBJJKANZY=",
       "url": "index.html"
     },
     {
@@ -277,5 +277,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "RiTsbB9R"
+  "version": "r5zln\/lH"
 };
