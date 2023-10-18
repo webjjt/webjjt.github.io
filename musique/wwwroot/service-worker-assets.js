@@ -197,6 +197,10 @@
       "url": "musique.styles.css"
     },
     {
+      "hash": "sha256-9fbVRRqc1cpO3br5DzamRHWvuFTzmC0S6DqAOxmJMsw=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-lDAEEaul32OkTANWkZgjgs4sFCsMdLsR5NJxrjVcXdo=",
       "url": "css\/app.css"
     },
@@ -273,5 +277,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "MiP8zQIx"
+  "version": "17BomEow"
 };
