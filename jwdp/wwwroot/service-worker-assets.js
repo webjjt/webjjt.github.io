@@ -409,6 +409,10 @@
       "url": "jwdp.Client.styles.css"
     },
     {
+      "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE\/N2bYWOctiv\/vs8=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-8aM9R9K90X6h+KPDW4OzrEh071mAs7dvAQxjBxAZQAc=",
       "url": "css\/app.css"
     },
@@ -469,7 +473,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-gZUT2uAG0PzZk5tmP7IwixL4px9hIg5BwPHJNCx6bIg=",
+      "hash": "sha256-LHKqJpop9Q0a69+PMajXoT7R+KDd+pgXa\/JW\/\/ajnrY=",
       "url": "index.html"
     },
     {
@@ -477,5 +481,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "QETJjBiU"
+  "version": "aQuooF3M"
 };
