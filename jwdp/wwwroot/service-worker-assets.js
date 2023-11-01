@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-xl10YvtiSupow6iBgOdw+Xo82wbKBYDDNB6vUKRY86o=",
+      "hash": "sha256-UZKA8huk\/t\/9TGTU5wNKWNmlMxXEeXt3WEllwwgrsTQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -33,11 +33,11 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-9TMEbeJlFmlUGbM8th6i09bmzhmZDgGdHeYrqghiJ4Q=",
+      "hash": "sha256-iqdjpDDr+xAqWCP6H61O3EPNoAMCVIl0X+N9vvqhm\/4=",
       "url": "_framework\/jwdp.Client.dll"
     },
     {
-      "hash": "sha256-vuX6WnmOZ+oyP7y91lrhpU0Nuf3jro4oZhNFMERvc\/c=",
+      "hash": "sha256-QcVVMaAznAEEQp+SXnVNe49\/j3PWW\/Cg3aorIgaqtkE=",
       "url": "_framework\/jwdp.Shared.dll"
     },
     {
@@ -417,7 +417,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "hash": "sha256-jK5OY4B44+iIs19Cvxjnl+82d1RQPVvqYBZExBO0nRs=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -481,5 +481,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "aQuooF3M"
+  "version": "\/i6z8uzQ"
 };

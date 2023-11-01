@@ -8,8 +8,8 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
-      "jwdp.Client.dll": "sha256-9TMEbeJlFmlUGbM8th6i09bmzhmZDgGdHeYrqghiJ4Q=",
-      "jwdp.Shared.dll": "sha256-vuX6WnmOZ+oyP7y91lrhpU0Nuf3jro4oZhNFMERvc\/c=",
+      "jwdp.Client.dll": "sha256-iqdjpDDr+xAqWCP6H61O3EPNoAMCVIl0X+N9vvqhm\/4=",
+      "jwdp.Shared.dll": "sha256-QcVVMaAznAEEQp+SXnVNe49\/j3PWW\/Cg3aorIgaqtkE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-rZ1s\/Q09rLVqp+lp6UnGSR\/07ecnKxxDdlzdizCvePU=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-V9\/lhZTksEf7JzWCF27wDEvimpme0Do\/BsExqNedpks=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-PLxJaR2SuwYdQsra7z5OHN3NWak02LI8n4gqhj18usY=",
