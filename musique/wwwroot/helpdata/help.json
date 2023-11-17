@@ -1,53 +1,158 @@
-﻿[
+[
   {
-    "Keyword": "tierce",
-    "Columns": [ "intervalle de  en tons", "intervalle de en demi-tons", "la tierce est dite" ],
-    "Rows": [
-      [ "2","4", "majeure" ],
-      [ "1 et demi","3", "mineure" ]
+    "Keyword": "accord3",
+    "Test": "",
+    "Lexique": "accord***",
+    "Lexiqueuppercase": "Accord",
+    "Columns": [
+      "composition",
+      "l\u0027accord est dit"
     ],
-    "Definition": [ "intervalle entre les deux notes extrêmes d'un ensemble de 3 degrés successifs" ]
+    "Rows": [
+      [
+        "si quinte juste",
+        "parfait"
+      ],
+      [
+        "si premi\u00E8re tierce majeure",
+        "majeur"
+      ],
+      [
+        "si premi\u00E8re tierce mineure",
+        "mineur"
+      ]
+    ],
+    "Definition": [
+      "l\u0027accord (de base) est un ensemble de 3 notes constitu\u00E9 d\u0027une tierce et d\u0027une quinte, soit deux tierces successives"
+    ]
   },
   {
-    "Keyword": "quinte",
-
-
-    "Columns": [ "intervalle de  en tons", "intervalle de en demi-tons", "la quinte est dite" ],
-    "Rows": [
-      [ "3 et demi","7", "juste" ],
-      [ "3","6", "diminuée" ]
+    "Keyword": "cl\u00E9",
+    "Test": "",
+    "Lexique": "cl\u00E9",
+    "Lexiqueuppercase": "Cl\u00E9",
+    "Columns": [
+      "cl\u00E9",
+      "indique"
     ],
-    "Definition": [ "intervalle entre les deux notes extrêmes d'un ensemble de 5 degrés successifs" ],
-   
-    "Test": "vvvvv"
-  },
-  {
-    "Keyword": "accord",
-    "Columns": [ "composition", "l'accord est dit" ],
     "Rows": [
-      [ "si quinte juste", "parfait" ],
-      [ "si première tierce majeure", "majeur" ],
-      [ "si première tierce mineure", "mineur" ]
+      [
+        "sol",
+        "position  du sol sur la port\u00E9e"
+      ],
+      [
+        "fa",
+        "position  du fa sur la port\u00E9e"
+      ]
     ],
-    "Definition": [ "l'accord (de base) est un ensemble de 3 notes constitué d'une tierce et d'une quinte, soit deux tierces successives" ]
-  },
-  {
-    "Keyword": "clé",
-    "Columns": [ "clé", "indique" ],
-    "Rows": [
-      [ "sol", "position  du sol sur la portée" ],
-      [ "fa", "position  du fa sur la portée" ]
-    ],
-    "Definition": [ "la clé est un symbole placé en début de portée qui indique la position de la note correspondante sur la portée " ]
+    "Definition": [
+      "la cl\u00E9 est un symbole plac\u00E9 en d\u00E9but de port\u00E9e qui indique la position de la note correspondante sur la port\u00E9e "
+    ]
   },
   {
     "Keyword": "essai",
-    "Columns": [ "titre colonne1", "titre colonne2" ],
-    "Rows": [
-      [ "contenu ligne1 colonne 1", "contenu ligne1 colonne2" ],
-      [ "contenu ligne2 colonne 1", "contenu ligne2 colonne2" ]
-     
+    "Test": "",
+    "Lexique": "essai",
+    "Lexiqueuppercase": "Essai",
+    "Columns": [
+      "titre colonne1",
+      "titre colonne2"
     ],
-    "Definition": [ "brève définition" ]
+    "Rows": [
+      [
+        "contenu ligne1 colonne 1",
+        "contenu ligne1 colonne2"
+      ],
+      [
+        "contenu ligne2 colonne 1",
+        "contenu ligne2 colonne2"
+      ]
+    ],
+    "Definition": [
+      "br\u00E8ve d\u00E9finition"
+    ]
+  },
+  {
+    "Keyword": "quinte",
+    "Test": "vvvvv",
+    "Lexique": "quinte",
+    "Lexiqueuppercase": "Quinte",
+    "Columns": [
+      "intervalle de  en tons",
+      "intervalle de en demi-tons",
+      "la quinte est dite"
+    ],
+    "Rows": [
+      [
+        "4",
+        "8",
+        "augment\u00E9e"
+      ],
+      [
+        "3 et demi",
+        "7",
+        "juste"
+      ],
+      [
+        "3",
+        "6",
+        "diminu\u00E9e"
+      ]
+    ],
+    "Definition": [
+      "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 5 degr\u00E9s successifs"
+    ]
+  },
+  {
+    "Keyword": "tierce",
+    "Test": "",
+    "Lexique": "tierce",
+    "Lexiqueuppercase": "Tierce",
+    "Columns": [
+      "intervalle de  en tons",
+      "intervalle de en demi-tons",
+      "la tierce est dite"
+    ],
+    "Rows": [
+      [
+        "2",
+        "4",
+        "majeure"
+      ],
+      [
+        "1 et demi",
+        "3",
+        "mineure"
+      ]
+    ],
+    "Definition": [
+      "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 3 degr\u00E9s successifs"
+    ]
+  },
+  {
+    "Keyword": "nouveau",
+    "Test": "",
+    "Lexique": "nouveau",
+    "Lexiqueuppercase": "Nouveau",
+    "Columns": [
+      "intervalle de  en tons",
+      "intervalle de en demi-tons",
+      "la tierce est dite"
+    ],
+    "Rows": [
+      [
+        "2",
+        "4",
+        "majeure"
+      ],
+      [
+        "1 et demi",
+        "3",
+        "mineure"
+      ]
+    ],
+    "Definition": [
+      "d\u00E9finition"
+    ]
   }
 ]

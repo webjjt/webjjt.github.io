@@ -1,0 +1,54 @@
+﻿[
+  {
+    "Keyword": "tierce",
+    "Columns": [ "intervalle de  en tons", "intervalle de en demi-tons", "la tierce est dite" ],
+    "Rows": [
+      [ "2","4", "majeure" ],
+      [ "1 et demi","3", "mineure" ]
+    ],
+    "Definition": [ "intervalle entre les deux notes extrêmes d'un ensemble de 3 degrés successifs" ]
+  },
+  {
+    "Keyword": "quinte",
+
+
+    "Columns": [ "intervalle de  en tons", "intervalle de en demi-tons", "la quinte est dite" ],
+    "Rows": [
+      [ "4", "8", "augmentée" ],
+      [ "3 et demi", "7", "juste" ],
+      [ "3", "6", "diminuée" ]
+    ],
+    "Definition": [ "intervalle entre les deux notes extrêmes d'un ensemble de 5 degrés successifs" ],
+   
+    "Test": "vvvvv"
+  },
+  {
+    "Keyword": "accord",
+    "Columns": [ "composition", "l'accord est dit" ],
+    "Rows": [
+      [ "si quinte juste", "parfait" ],
+      [ "si première tierce majeure", "majeur" ],
+      [ "si première tierce mineure", "mineur" ]
+    ],
+    "Definition": [ "l'accord (de base) est un ensemble de 3 notes constitué d'une tierce et d'une quinte, soit deux tierces successives" ]
+  },
+  {
+    "Keyword": "clé",
+    "Columns": [ "clé", "indique" ],
+    "Rows": [
+      [ "sol", "position  du sol sur la portée" ],
+      [ "fa", "position  du fa sur la portée" ]
+    ],
+    "Definition": [ "la clé est un symbole placé en début de portée qui indique la position de la note correspondante sur la portée " ]
+  },
+  {
+    "Keyword": "essai",
+    "Columns": [ "titre colonne1", "titre colonne2" ],
+    "Rows": [
+      [ "contenu ligne1 colonne 1", "contenu ligne1 colonne2" ],
+      [ "contenu ligne2 colonne 1", "contenu ligne2 colonne2" ]
+     
+    ],
+    "Definition": [ "brève définition" ]
+  }
+]
