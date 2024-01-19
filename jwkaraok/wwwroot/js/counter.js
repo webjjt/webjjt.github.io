@@ -56,8 +56,8 @@ function handleFiles() {
     var url = window.URL.createObjectURL(fileList[0]);
     
     
-    
-   DotNet.invokeMethod ('jwkaraok', 'xxx',url);
+
+    DotNet.invokeMethod('jwkaraok', 'xxx', url, fileList[0].name);
 }
 
 
