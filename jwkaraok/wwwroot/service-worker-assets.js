@@ -181,7 +181,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-YUu9BfRv1STHt4TUKwtzL5gwdmiGajbQoIpb5cTnMhE=",
+      "hash": "sha256-tHR3utSjSDD4RMrgd4UaFta8rGWKDajavVtOwkb6Fjk=",
       "url": "jwkaraok.styles.css"
     },
     {
@@ -269,5 +269,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "33Pe\/9VF"
+  "version": "WsbMyIfq"
 };
