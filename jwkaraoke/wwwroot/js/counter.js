@@ -1,5 +1,6 @@
 ﻿var aud
 var inputcomp
+var inputcompmasque
 
 window.test = function () {
     alert("test de alert en cours");
@@ -13,7 +14,11 @@ window.preparejscode = function () {
     
     inputcomp = document.getElementById('inputfile');
     inputcomp.addEventListener("change", handleFiles, false);
+
+    inputcompmasque = document.getElementById('masquechoice');
     
+
+    window.addEventListener("resize", resizing);
 }
 window.changesource = function (qsrc) {
     //alert("dans change source");
@@ -23,6 +28,20 @@ window.changesource = function (qsrc) {
     
 }
 
+
+window.clickinputfile = function () {
+    inputcomp.click();
+}
+
+window.clickinputfilemasque = function () {
+    inputcompmasque.click();
+}
+window.videowidth = function () {
+    return aud.videowidth;
+}
+window.videoheight = function () {
+    return aud.videoheight;
+}
 window.downloadFileFromStream = async (fileName, contentStreamReference) => {
    
     const arrayBuffer = await contentStreamReference.arrayBuffer();
@@ -60,7 +79,14 @@ function handleFiles() {
     DotNet.invokeMethod('jwkaraoke', 'xxx', url, fileList[0].name);
 }
 
+function resizing() {
 
+    DotNet.invokeMethod('jwkaraoke', 'browserresize', window.innerWidth, window.innerHeight, screen.width, screen.height, aud.videoWidth, aud.videoHeight);
+}
+
+window.resizeplayer = function() {
+    resizing();
+}
 window.playerclientwidth = function () {
 
     return aud.clientWidth;
@@ -85,4 +111,14 @@ window.pause = function () {
     aud.pause();
 }
 
+window.triggerClick = function (elt) {
+   elt.click();
+}
 
+window.setwidth = function (e,w) {
+    e.width = w;
+}
+
+window.setheight = function (e, h) {
+    e.height = h;
+}
