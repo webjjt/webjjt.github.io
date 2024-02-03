@@ -37,10 +37,24 @@ window.clickinputfilemasque = function () {
     inputcompmasque.click();
 }
 window.videowidth = function () {
-    return aud.videowidth;
+    return aud.videoWidth;
 }
 window.videoheight = function () {
-    return aud.videoheight;
+    return aud.videoHeight;
+}
+
+window.getinnerWidth = function () {
+    return window.innerWidth;
+}
+window.getinnerHeight = function () {
+    return window.innerHeight;
+}
+
+window.getscreenWidth = function () {
+    return screen.width;;
+}
+window.getscreenHeight = function () {
+    return screen.height;
 }
 window.downloadFileFromStream = async (fileName, contentStreamReference) => {
    
@@ -80,8 +94,8 @@ function handleFiles() {
 }
 
 function resizing() {
-
-    DotNet.invokeMethod('jwkaraoke', 'browserresize', window.innerWidth, window.innerHeight, screen.width, screen.height, aud.videoWidth, aud.videoHeight);
+    DotNet.invokeMethod('jwkaraoke', 'resizevideo');
+   // DotNet.invokeMethod('jwkaraoke', 'browserresize', window.innerWidth, window.innerHeight, screen.width, screen.height, aud.videoWidth, aud.videoHeight);
 }
 
 window.resizeplayer = function() {
