@@ -29,11 +29,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-slYawxNRqxPy7RJqXdMlEmnbdvi6yifo3I4MIDBXNAE=",
+      "hash": "sha256-GwnEloCNTLxeiEMNB\/VvzsZ8xf3+3Bf2XCjz0OyLS7s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-UDqMVVToYkgbnGhmo+uSI87zt4WXpHfccGBJgi\/s\/kI=",
+      "hash": "sha256-hu64SltTlK91DhbVjTd9pVIC9TI5wrqyZFPGhRUa39A=",
       "url": "_framework\/jwkaraoke.dll"
     },
     {
@@ -125,6 +125,10 @@
       "url": "_framework\/System.ComponentModel.TypeConverter.dll"
     },
     {
+      "hash": "sha256-mEklXmabCEs6nx4uZpOZ3sge4zpPqrsxQCHWBaheDvk=",
+      "url": "_framework\/System.Console.dll"
+    },
+    {
       "hash": "sha256-GXYaTkUWqIcsGI6VKD2SIHDrRwOD2xQU1UA9nONh8PU=",
       "url": "_framework\/System.dll"
     },
@@ -153,7 +157,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-xPdF3LDCE5qK1m1AqDdrlB5FLCWmzNZ+jOnCjlOHTgU=",
+      "hash": "sha256-UOapYzxEA9z9NBNd97fKQlxyKuQo6tio8xq4cGev+Dc=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -273,5 +277,5 @@
       "url": "sjjm_F_139_r720P.mp4"
     }
   ],
-  "version": "MYs2E59Z"
+  "version": "75bmEDLt"
 };
