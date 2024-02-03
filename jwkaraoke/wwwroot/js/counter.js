@@ -95,7 +95,7 @@ function handleFiles() {
 
 function resizing() {
     DotNet.invokeMethod('jwkaraoke', 'resizevideo');
-   // DotNet.invokeMethod('jwkaraoke', 'browserresize', window.innerWidth, window.innerHeight, screen.width, screen.height, aud.videoWidth, aud.videoHeight);
+  
 }
 
 window.resizeplayer = function() {
