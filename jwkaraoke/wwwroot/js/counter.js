@@ -1,6 +1,7 @@
 ﻿var aud
 var inputcomp
 var inputcompmasque
+var inputcolor
 
 window.test = function () {
     alert("test de alert en cours");
@@ -19,6 +20,10 @@ window.preparejscode = function () {
     
 
     window.addEventListener("resize", resizing);
+
+    inputcolor = document.getElementById('colorpicker');
+    inputcolor.addEventListener("change", inputcolorchanged, false);
+
 }
 window.changesource = function (qsrc) {
     //alert("dans change source");
@@ -135,4 +140,9 @@ window.setwidth = function (e,w) {
 
 window.setheight = function (e, h) {
     e.height = h;
+}
+
+function inputcolorchanged(event) {
+    DotNet.invokeMethod("jwkaraoke", "inputcolorchanged", event.target.value);
+
 }
