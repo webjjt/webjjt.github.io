@@ -21,9 +21,14 @@ window.preparejscode = function () {
 
     window.addEventListener("resize", resizing);
 
-    inputcolor = document.getElementById('colorpicker');
-    inputcolor.addEventListener("change", inputcolorchanged, false);
+   
 
+}
+
+window.inputcolorinit = function () {
+    inputcolor = document.getElementById('colorpicker');
+    inputcolor.addEventListener("change", inputcolorchanged, true);
+    inputcolor.click();
 }
 window.changesource = function (qsrc) {
     //alert("dans change source");
