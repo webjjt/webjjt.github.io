@@ -2,6 +2,7 @@
 var inputcomp
 var inputcompmasque
 var inputcolor
+var coloredelement
 
 window.test = function () {
     alert("test de alert en cours");
@@ -25,7 +26,8 @@ window.preparejscode = function () {
 
 }
 
-window.inputcolorinit = function () {
+window.inputcolorinit = function ( c) {
+    coloredelement = c;
     inputcolor = document.getElementById('colorpicker');
     inputcolor.addEventListener("change", inputcolorchanged, true);
     inputcolor.click();
@@ -148,6 +150,6 @@ window.setheight = function (e, h) {
 }
 
 function inputcolorchanged(event) {
-    DotNet.invokeMethod("jwkaraoke", "inputcolorchanged", event.target.value);
+    DotNet.invokeMethod("jwkaraoke", "inputcolorchanged", event.target.value, coloredelement);
 
 }
