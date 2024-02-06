@@ -29,11 +29,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-DQMOIyb7TwFSvKCP6PfwD5pf7v0CICimqQXRSIWCRKM=",
+      "hash": "sha256-wSkHwCwM6l+qJjWO3YjPTEFJl3k93GCA3WJlCWJ8BJU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-QSALGHXf2qgQF1\/EymoZJ6V0Pu5o0PyE+0FK1+n9HLo=",
+      "hash": "sha256-0xUMX3a9jWQcHcdBI4t2xEKL5FENmEuJDb6ZywcqDF8=",
       "url": "_framework\/jwkaraoke.dll"
     },
     {
@@ -277,5 +277,5 @@
       "url": "sjjm_F_139_r720P.mp4"
     }
   ],
-  "version": "JCO6PHbe"
+  "version": "3Ukee5eV"
 };
