@@ -29,15 +29,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-c3uJPg6lEAjidIvNvQ7\/3XljFqs5RyzwoWL86L9RZLQ=",
+      "hash": "sha256-hAIV1CKG2Zzob8P6tQhgOOlWkk0iX5mqQiQ32hySXss=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-T64Ja6uoZOecb5EUp94peme416CMgxpGExeAAYgMO6Y=",
+      "hash": "sha256-XyTy+KXpdx9sl8tt27QiAqyEw2pUCYMTzztNomZnSB4=",
       "url": "_framework\/jwkaraoke.dll"
     },
     {
-      "hash": "sha256-yGfU5+wIadEM8qdXnwQ8S1mgwmSUfCemShFXbs3C5HM=",
+      "hash": "sha256-cgHecbiasp3K\/QU+mMIMoPiBp22FtygDRO6Rjn7bTSI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -277,5 +277,5 @@
       "url": "sjjm_F_139_r720P.mp4"
     }
   ],
-  "version": "ZHyQ8BRr"
+  "version": "sMRtE0a1"
 };
