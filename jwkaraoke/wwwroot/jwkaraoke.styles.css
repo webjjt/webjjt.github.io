@@ -8,8 +8,7 @@ h1[b-mdd9oraces] {
     position: relative;
     width: 100px;
     height: 100px;
-    
-}
+ }
 
 .video[b-mdd9oraces] {
     position: absolute;
@@ -17,14 +16,12 @@ h1[b-mdd9oraces] {
     left: 0;
     width: 100%;
     height: 100%;
-    
-}
+ }
 
 .masque[b-mdd9oraces] {
     z-index: 1;
     position: absolute;
-   
-}
+   }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-dyd6c0sn2w] {
     position: relative;
