@@ -26,6 +26,14 @@ window.preparejscode = function () {
 
 }
 
+
+window.getoffsetheight = function (id) {
+    var e = document.getElementById(id);
+    let result;
+    if (e) { result = e.offsetHeight; }
+    else { result = 0; }
+    return result;
+}
 window.inputcolorinit = function ( c) {
     coloredelement = c;
     inputcolor = document.getElementById('colorpicker');

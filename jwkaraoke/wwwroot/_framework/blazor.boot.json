@@ -1,7 +1,7 @@
 {
   "entryAssembly": "jwkaraoke",
   "resources": {
-    "hash": "sha256-XL56Vlu35oABq9W1EneYhKwDcqt3vw1xgWGSy+EuNJ0=",
+    "hash": "sha256-Krxo9kSFJhlNdfbwPCdeEgkzSvkuU4h44t+vK8QSBWE=",
     "runtime": {
       "dotnet.7.0.15.iyhzl0mt7a.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "jwkaraoke.dll": "sha256-XyTy+KXpdx9sl8tt27QiAqyEw2pUCYMTzztNomZnSB4=",
+      "jwkaraoke.dll": "sha256-75SBF43ivN627lDXrnoA0V2NV4whmr0wfeR+BNPj28k=",
       "Microsoft.AspNetCore.Components.dll": "sha256-cgHecbiasp3K/QU+mMIMoPiBp22FtygDRO6Rjn7bTSI=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-MjP3oL0zPPfjfL9B98ZoxjoPmlU+/qAtoz/eRau3e6I=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-HWCqvsUwBJnbBpEvr1VCSR0UcsAZvpwDK2EHG+xv7gs=",
@@ -34,7 +34,6 @@
       "System.ComponentModel.dll": "sha256-Fk2YdbIh1S9I3Jn+elQpV9RdU2OqJiVenl74EbfuW34=",
       "System.ComponentModel.Primitives.dll": "sha256-EERV6SyCkkpMovJJQtxj0ERgnbh/J/9r50TM/X170GY=",
       "System.ComponentModel.TypeConverter.dll": "sha256-tJom1JB48NUP6esrgs40nnGuUwh9fx+LbEq4/jtO/Yo=",
-      "System.Console.dll": "sha256-mEklXmabCEs6nx4uZpOZ3sge4zpPqrsxQCHWBaheDvk=",
       "System.dll": "sha256-GXYaTkUWqIcsGI6VKD2SIHDrRwOD2xQU1UA9nONh8PU=",
       "System.Linq.dll": "sha256-ef6JpOWPMAuEYOQF0K/BjVpZ/SwRqLEYHIiEXo0Bw5g=",
       "System.Linq.Expressions.dll": "sha256-Pdd6gAKUg6b4tnkxJMDcTeUTWwh+gww7o1qGecJ+RN4=",
@@ -42,7 +41,7 @@
       "System.Net.Http.dll": "sha256-dYqDUNYgPT0BtW2xc3WXRKRIk8CADIZngbWA1oAexK0=",
       "System.Net.Primitives.dll": "sha256-Mh34i2zKBPk4PGO0Tv/AeErqXWeyzlVLRr45Q5IdRGw=",
       "System.ObjectModel.dll": "sha256-doRa6dgdIHa1Jg9Czngh9IMpM7gRPwuaMZe79rI88s0=",
-      "System.Private.CoreLib.dll": "sha256-UOapYzxEA9z9NBNd97fKQlxyKuQo6tio8xq4cGev+Dc=",
+      "System.Private.CoreLib.dll": "sha256-TaoReeFRXK19EuU3UaQCgo1eAi2guOG0BZ8HPj/4FjY=",
       "System.Private.Uri.dll": "sha256-P3/7g72N5VdjGSMkZPoLo7U6LEbiqtx8gXhzxmlkd2c=",
       "System.Runtime.dll": "sha256-5GR9lrwVnyjIJPxHvNJVtbwHhADyJOnQAEbA1mUEpmg=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-UMXbBbnu9vfV7jWAfoSLKiqrgOIrYljV+zzpAOb2JSE=",
