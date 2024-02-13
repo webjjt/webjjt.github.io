@@ -29,15 +29,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-91fEHSH11UggjCDqd\/9nXa6Mp634RZHDo0TXQtLHHlg=",
+      "hash": "sha256-0Pz882gYDSTeNQCIII2dY6mo79Ua\/RzT4\/C\/2oGPlFc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-DsQb+PsHzZl4vpQj+V4LtwHtAvTDdNEag6ATtash7jE=",
+      "hash": "sha256-DvTB6O3E6OzZiIzY6tAfFG2CEv\/2+XqDm3tbUfB9d8E=",
       "url": "_framework\/jwkaraoke.dll"
     },
     {
-      "hash": "sha256-cgHecbiasp3K\/QU+mMIMoPiBp22FtygDRO6Rjn7bTSI=",
+      "hash": "sha256-Jo0pPzWWQ7Fqm5IwFCwbxiJ0kXdr7syImJKzpMoA+ds=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -45,7 +45,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-HWCqvsUwBJnbBpEvr1VCSR0UcsAZvpwDK2EHG+xv7gs=",
+      "hash": "sha256-0FCqBequRgthCZTShWsX1c3oLdUeMsIIdiH6jOBK9AI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -153,7 +153,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-TaoReeFRXK19EuU3UaQCgo1eAi2guOG0BZ8HPj\/4FjY=",
+      "hash": "sha256-FhCH+55E7s2NM3feft+0fDlRYLdwvO3xamK\/YqkPyLQ=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -161,7 +161,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-5GR9lrwVnyjIJPxHvNJVtbwHhADyJOnQAEbA1mUEpmg=",
+      "hash": "sha256-yd1LiaLuSiVOOhhUiXswgdP0GqZZVZxZUy9iW2Qvv7U=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -179,6 +179,10 @@
     {
       "hash": "sha256-kbEUWxTokpUFxtGor7MCINyyw2PrIZqPucXWYZGZ1bo=",
       "url": "_framework\/System.Text.Json.dll"
+    },
+    {
+      "hash": "sha256-W0\/rcqCMswoVtval6pTYr8Rkv5YRknwJoXNoVcFp+0g=",
+      "url": "_framework\/System.Threading.dll"
     },
     {
       "hash": "sha256-TgMsrU8Ukanw0wll5ZIP8xXnaaHAkcQR4jh7\/D9EQMs=",
@@ -257,7 +261,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-kjx7tauw7NAD7BIQkzu0ph9LKFuATnyWR7aT5DuhYyQ=",
+      "hash": "sha256-YG2BznaBY1gzpWdkokrACTg\/DwDpiFbFG2Vvkc\/G4Hk=",
       "url": "js\/counter.js"
     },
     {
@@ -273,5 +277,5 @@
       "url": "sjjm_F_139_r720P.mp4"
     }
   ],
-  "version": "s+w6WtQZ"
+  "version": "32I0hgZ7"
 };

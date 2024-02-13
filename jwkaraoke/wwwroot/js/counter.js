@@ -95,7 +95,7 @@ window.downloadFileFromStream = async (fileName, contentStreamReference) => {
 
 function myFunction() {
     
-    DotNet.invokeMethod('jwkaraoke', 'statictimechanged', aud.currentTime);
+    DotNet.invokeMethodAsync('jwkaraoke', 'statictimechanged', aud.currentTime);
     
     
 }
@@ -133,8 +133,12 @@ window.playerclientheight = function () {
 
 }
 
-window.currenttime = function (d) {
+window.playersetcurrenttime = function (d) {
     aud.currentTime = d;
+}
+
+window.playergetcurrenttime = function () {
+    return aud.currentTime;
 }
 
 window.play = function () {
