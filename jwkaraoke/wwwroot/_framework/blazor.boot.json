@@ -1,7 +1,7 @@
 {
   "entryAssembly": "jwkaraoke",
   "resources": {
-    "hash": "sha256-bcCK0VfW4WZkLLoaelWmhPPh/H/N+KV673P3Bp+B/A8=",
+    "hash": "sha256-cVMswtdMb/x62uRVkpbjXMA9Jd+urjAnPrnzOEk9G3k=",
     "runtime": {
       "dotnet.7.0.15.iyhzl0mt7a.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "jwkaraoke.dll": "sha256-ww2KSOK1l61uoiL/JZcOvHbKdbNm7V9FqFNWdfv92AQ=",
+      "jwkaraoke.dll": "sha256-2/otOW0cr3gVJNEenliLs6xRN0gzLEZZm24b5vwUqMc=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Jo0pPzWWQ7Fqm5IwFCwbxiJ0kXdr7syImJKzpMoA+ds=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-MjP3oL0zPPfjfL9B98ZoxjoPmlU+/qAtoz/eRau3e6I=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-0FCqBequRgthCZTShWsX1c3oLdUeMsIIdiH6jOBK9AI=",
