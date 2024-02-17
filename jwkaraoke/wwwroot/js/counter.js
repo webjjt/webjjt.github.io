@@ -149,6 +149,10 @@ window.pause = function () {
     aud.pause();
 }
 
+window.paused = function () {
+    return aud.paused;
+}
+
 window.triggerClick = function (elt) {
    elt.click();
 }
