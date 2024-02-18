@@ -29,11 +29,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-37Hrcy16BSyJPlDr9t6nWbuuiJqbDpOPij8F2bXSWwQ=",
+      "hash": "sha256-7sPAX9yPdzdJL\/vjomtUEPno8mQKQDOOtZC+0w5encw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-TDnlYgEF5NUf2c3IZ4P32eIPcXHy2n47pIX0fwbCdK0=",
+      "hash": "sha256-cFTJx4Wkc8gnfGtUDv89yufkdyCquIHmS+rUKq2XCUg=",
       "url": "_framework\/jwkaraoke.dll"
     },
     {
@@ -45,7 +45,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-0FCqBequRgthCZTShWsX1c3oLdUeMsIIdiH6jOBK9AI=",
+      "hash": "sha256-MTuRbZhqnyI77d1\/ijBAMhXf13VwWvYCQItzLyy2uWc=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -277,5 +277,5 @@
       "url": "sjjm_F_139_r720P.mp4"
     }
   ],
-  "version": "Jr6gs4n0"
+  "version": "KLWQd\/dQ"
 };
