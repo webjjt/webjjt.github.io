@@ -29,7 +29,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-\/9K+G67y4b30iEiHZ4AAUv+tG6Qu0cCUmtwSrVn16Gw=",
+      "hash": "sha256-+l79rGPO4hNhWZn0uX+s259SzAVX4uXgWoDlgdLlgzE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,7 +37,7 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-2HgW+s0l0\/v3b3eDeV2Spp9tEqoKcptwBO+K+yAD2hs=",
+      "hash": "sha256-8F874\/XsClhHJYyW8dz4Or4rRbiUAJQBwDOj\/i3JImY=",
       "url": "_framework\/jwdp.Client.dll"
     },
     {
@@ -45,7 +45,7 @@
       "url": "_framework\/jwdp.Shared.dll"
     },
     {
-      "hash": "sha256-jMztpvOUGbib+CJJEdfxCBkQIiqBjsaHqOqqjEVF29M=",
+      "hash": "sha256-1J5lAka5QRbtOsrf+v\/a1aeb6PRpV25W8QxKK46PWZk=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -53,7 +53,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-QBVqaWEXMs2K3TqviWvthCwh7i5s3OgILajAFZt9Y4E=",
+      "hash": "sha256-hGU1w17J228iByfXdx3Yr7L7MIDS9DNN0L5ZLFBPi+8=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -477,5 +477,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "HiB+HfTA"
+  "version": "VBSqtLal"
 };
