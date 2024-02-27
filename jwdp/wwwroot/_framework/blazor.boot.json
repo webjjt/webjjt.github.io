@@ -1,7 +1,7 @@
 {
   "entryAssembly": "jwdp.Client",
   "resources": {
-    "hash": "sha256-AaaBulzkhLcZk7CzpYh6tZPLlBL2GarlYvlJCddKFG8=",
+    "hash": "sha256-kAs4m+W/qUq7CE96bpii7bs8QoFDU/OmDz8fIXukUcE=",
     "runtime": {
       "dotnet.7.0.15.iyhzl0mt7a.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -12,8 +12,8 @@
     },
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
-      "jwdp.Client.dll": "sha256-8F874/XsClhHJYyW8dz4Or4rRbiUAJQBwDOj/i3JImY=",
-      "jwdp.Shared.dll": "sha256-Z0vIZv8khK5CvfRlR36B87O97l8vF8xrOFFz+/gsooA=",
+      "jwdp.Client.dll": "sha256-dNoopLbfV15zSZX4sUDBO4HIWaXKHhQyP3x6qca5uM0=",
+      "jwdp.Shared.dll": "sha256-Zs3WKCeh0WqeFzm0Vewd1KDhInAX+KSFtcPd7iTiJ5A=",
       "Microsoft.AspNetCore.Components.dll": "sha256-1J5lAka5QRbtOsrf+v/a1aeb6PRpV25W8QxKK46PWZk=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-V9/lhZTksEf7JzWCF27wDEvimpme0Do/BsExqNedpks=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-hGU1w17J228iByfXdx3Yr7L7MIDS9DNN0L5ZLFBPi+8=",
