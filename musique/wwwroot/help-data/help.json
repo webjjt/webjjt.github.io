@@ -1,0 +1,258 @@
+[
+  {
+    "topicelements": [
+      {
+        "$type": "topictableau",
+        "tableau": {
+          "rowlist": [
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0cl\u00E9"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0indique"
+                }
+              ]
+            },
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0sol"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0position du sol sur la port\u00E9e"
+                }
+              ]
+            },
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0fa"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0position du fa sur la port\u00E9e"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "Keyword": "cl\u00E9",
+    "Test": "",
+    "Lexique": "cl\u00E9",
+    "Lexiqueuppercase": "Cl\u00E9",
+    "Definition": [
+      "la cl\u00E9 est un symbole plac\u00E9 en d\u00E9but de port\u00E9e qui indique la position de la note correspondante sur la port\u00E9e"
+    ]
+  },
+  {
+    "topicelements": [
+      {
+        "$type": "topictableau",
+        "tableau": {
+          "rowlist": [
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0intervalle de (en ton(s))"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0intervalle de (en demi ton(s))"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0la tierce est dite"
+                }
+              ]
+            },
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A02"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A04"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0majeure"
+                }
+              ]
+            },
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A01 et demi"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A03"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0mineure"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "Keyword": "tierce",
+    "Test": "",
+    "Lexique": "tierce",
+    "Lexiqueuppercase": "Tierce",
+    "Definition": [
+      "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 3 degr\u00E9s successifs"
+    ]
+  },
+  {
+    "topicelements": [
+      {
+        "$type": "topictableau",
+        "tableau": {
+          "rowlist": [
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0intervalle de en ton(s)"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0intervalle de en demi-ton(s)"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": true,
+                  "content": "\u00A0la quinte est dite"
+                }
+              ]
+            },
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A04"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A08"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0augment\u00E9e"
+                }
+              ]
+            },
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A03 et demi"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A07"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0juste"
+                }
+              ]
+            },
+            {
+              "cellsinrow": [
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A03"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A06"
+                },
+                {
+                  "largeur": 1,
+                  "hauteur": 1,
+                  "istitre": false,
+                  "content": "\u00A0diminu\u00E9e"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "Keyword": "quinte",
+    "Test": "",
+    "Lexique": "quinte",
+    "Lexiqueuppercase": "Quinte",
+    "Definition": [
+      "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 5 degr\u00E9s successifs"
+    ]
+  }
+]
