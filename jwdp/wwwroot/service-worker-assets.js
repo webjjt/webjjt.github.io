@@ -29,7 +29,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-uA5TiQdUnDe0rdMsVrFYj1Kk2sdqe2AIqww1iBlDWNQ=",
+      "hash": "sha256-iPc57dyA05NKB4uMNERu7IBJoGjEmlW0Z+g+3HGzV54=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,11 +37,11 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-uGAJFMx5rKl7blofL3D90CLCSb1FHDUOy1yvzgC41hw=",
+      "hash": "sha256-0NaDInJtbGbFnp3JUvEhgAMK363kfCiQj8Ds55w92vA=",
       "url": "_framework\/jwdp.Client.dll"
     },
     {
-      "hash": "sha256-VLKmyy4fsSoze44q08FxkJjkw+izQFTTkY+JTYHV4ME=",
+      "hash": "sha256-+Ot\/nq7VvlHsXIqBHi1i33KCxt0VZA347u5ZPtKbZu4=",
       "url": "_framework\/jwdp.Shared.dll"
     },
     {
@@ -401,7 +401,7 @@
       "url": "_framework\/System.Xml.XDocument.dll"
     },
     {
-      "hash": "sha256-J0T4s39Wu\/uv05ACc+7s5Awzy\/gGGmQXjTQBofc4RVI=",
+      "hash": "sha256-djvJGjtNPyMWqK9LkB38nQAveZz\/IOyNy08L+CixeMg=",
       "url": "jwdp.Client.styles.css"
     },
     {
@@ -477,5 +477,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "zz41SffQ"
+  "version": "JNjBDYLE"
 };

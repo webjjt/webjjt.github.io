@@ -1,20 +1,5 @@
 /* /Composants/OrateurDisplay.razor.rz.scp.css */
-@media print {
-    .table thead tr td[b-21yg2pqzdd], .table tbody tr td[b-21yg2pqzdd] {
-        border-width: 1px !important;
-        border-style: solid !important;
-        border-color: black !important;
-        -webkit-print-color-adjust: exact;
-    }
 
-
-    .ta thead tr td[b-21yg2pqzdd], .ta tbody tr td[b-21yg2pqzdd] {
-        border-width: 0.7px !important;
-        border-style: solid !important;
-        border-color: rgba(0, 0, 0, 0.644) !important;
-        -webkit-print-color-adjust: exact;
-    }
-}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-ttujy1442v] {
     position: relative;
