@@ -1,7 +1,7 @@
 {
   "entryAssembly": "musique",
   "resources": {
-    "hash": "sha256-wEyY9wjKB6uvqf01AYnFVwSCfEJPoNGf5SDzNZ7mW2g=",
+    "hash": "sha256-nDOGUQ6Mj8PP6XuVB5Jsbg/iQq1G2qgsRE7VFbDawKc=",
     "runtime": {
       "dotnet.7.0.16.8tur93eij7.js": "sha256-4BiArKugJJtpQrznGF5zWfmJ2TB98+p6rKsyoqhtMk4=",
       "dotnet.timezones.blat": "sha256-rwyJqJu36keQwNmm/O1XV7tnkkVldIOK8GIjn4gTUt4=",
@@ -26,7 +26,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-eXvGx2jcjpTPEJoAHBsW/VuMPbNyyU+AsuhPmkzSSRY=",
       "Microsoft.JSInterop.dll": "sha256-BF1eQ+RfhhWRBRFeOGWkC+1NRAXQ60yQ6cheJhl42Ws=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-G6jIwqWCmOWar5ZgoZEzvrlU7P3WmB0OfzO3hTkXEIY=",
-      "musique.dll": "sha256-acqImoupR987cNNY2Csuz1D23HfSg9J0UzaIrBFkbKU=",
+      "musique.dll": "sha256-m/Ol0hfz5BNZRKCvVGZrSF8hZvcSY0DH9Wr4ioRCJWo=",
       "System.Collections.Concurrent.dll": "sha256-sbLbYNV7RfrGm55QfXN8K2Gf+DhhVbAjuG91vDRyReY=",
       "System.Collections.dll": "sha256-SX/WDANuxNPjn3yg7dnLChvgX3WrAoa334UnP6M8gFk=",
       "System.Collections.NonGeneric.dll": "sha256-zKhHJQ0tHwzl6w1UZYGiQP0KDlZ2xCx3oqQJN/udxv4=",
