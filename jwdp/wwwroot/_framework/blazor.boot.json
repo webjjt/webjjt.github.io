@@ -1,7 +1,7 @@
 {
   "entryAssembly": "jwdp.Client",
   "resources": {
-    "hash": "sha256-0sMpTbYaokxIeAU0oeTbT9Elgl/Z36HLn316sji8tCo=",
+    "hash": "sha256-PdsPS0kQwtXrHEs01Hst5AIrPD+2otRDJGEJAK3JSoY=",
     "runtime": {
       "dotnet.7.0.19.vs0yrj4lcn.js": "sha256-J9IVsSLjfEIyn/0XKSDWXHMve5eK11v9Aj06G7zPUYo=",
       "dotnet.timezones.blat": "sha256-kK6U8Vo/Xb8zgDH6JtdgAGSA6NUASHhvZoB+hINV0ms=",
@@ -12,12 +12,12 @@
     },
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
-      "jwdp.Client.dll": "sha256-2gxtRuhBrp5tdPgU6WLRM1+EaurUmAvwqS5DVHFTXNU=",
-      "jwdp.Shared.dll": "sha256-5pLtUcX12jadnMYJdmF2W0U9tHuOqIllIsTdz/fPzR0=",
+      "jwdp.Client.dll": "sha256-v/SmW7lBUoe0YfKAiXvR/F7ilfPbfODV5ALO9JGbFls=",
+      "jwdp.Shared.dll": "sha256-z3w2ItVUcpST1WLKGxElF7Oqkc45gusWkLH9QhPocag=",
       "Microsoft.AspNetCore.Components.dll": "sha256-ILVY3muXlXdDDRYmVXMvmwMF5W3WWCQv5jdUJVKu5g0=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-avG3237r1qHMVmGxdkiDTdmCTK2n7+0HBhAYE3xjew0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-TUIExOdLKTgof+q/S+T7kLcnGLy9Px3LwjTC/Ll19WM=",
-      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-cQb8tAHw8Ke4SWSxx7vhOxr4wleXvi+B6+BRv+h9b48=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-xvc+QSxt68WXHHuq9bHL4zNGe1p0W4yL6oo6gnoawNY=",
       "Microsoft.CSharp.dll": "sha256-s0Pvh12oEM5QAkur7UJ5RqenwjZeqexplKqeM97kAN4=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-X/f4fDl2cuIRXeWHhK/f2UqQbFioD+RU4a4CEh0zrrQ=",
       "Microsoft.Extensions.Configuration.dll": "sha256-DBOKSPriP2JDxVbbWrLXyD3K4/x3RBifNBWk/q1I39M=",
@@ -61,7 +61,7 @@
       "System.Linq.dll": "sha256-8bXU4eKswDgeVG/jQe56B1BMI9eVvwvMDrgyTP57tQ8=",
       "System.Linq.Expressions.dll": "sha256-XIT2DlQns+U+z43fvJoEtX/MM4sjBgCXUAZl+2WAptA=",
       "System.Memory.dll": "sha256-NLGCZu5hsNt9funo22zytbKNlq/sDgaEV3nDKDnMU+I=",
-      "System.Net.Http.dll": "sha256-DKFdz+JRcActSECo3XAQcCVx16nwbM7gWioiVxlb37o=",
+      "System.Net.Http.dll": "sha256-tcjvj4TavCybAin6Frpi5smPx24XWasK3iwotT0m2lw=",
       "System.Net.HttpListener.dll": "sha256-q8xELgzfMczvdbqbrpIbGSTZ7/JSVQhBHycu7ha2t6E=",
       "System.Net.Primitives.dll": "sha256-6y/Z+Q3BGVGVcczN/a9Yy4bPRPIoz5MQmnlxu63qrFY=",
       "System.Net.Sockets.dll": "sha256-9rPuyybWgBOYAA7jAjnMg/BOHmdn9pbPcbl28vIQbJI=",
