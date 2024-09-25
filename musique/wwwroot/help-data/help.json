@@ -1,258 +1,4067 @@
-[
-  {
-    "topicelements": [
-      {
-        "$type": "topictableau",
-        "tableau": {
-          "rowlist": [
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0cl\u00E9"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0indique"
-                }
-              ]
-            },
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0sol"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0position du sol sur la port\u00E9e"
-                }
-              ]
-            },
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0fa"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0position du fa sur la port\u00E9e"
-                }
-              ]
-            }
-          ]
+{
+  "newid": 0,
+  "helptopics": [
+    {
+      "id": 1,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "la cl\u00E9 est un symbole plac\u00E9 en d\u00E9but de port\u00E9e qui indique la position de la note correspondante sur la port\u00E9e"
+        },
+        {
+          "$type": "topictableau",
+          "tableau": {
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0cl\u00E9"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0indique"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0sol"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0position du sol sur la port\u00E9e"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0fa"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0position du fa sur la port\u00E9e"
+                  }
+                ]
+              }
+            ]
+          }
         }
-      }
-    ],
-    "Keyword": "cl\u00E9",
-    "Test": "",
-    "Lexique": "cl\u00E9",
-    "Lexiqueuppercase": "Cl\u00E9",
-    "Definition": [
-      "la cl\u00E9 est un symbole plac\u00E9 en d\u00E9but de port\u00E9e qui indique la position de la note correspondante sur la port\u00E9e"
-    ]
-  },
-  {
-    "topicelements": [
-      {
-        "$type": "topictableau",
-        "tableau": {
-          "rowlist": [
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0intervalle de (en ton(s))"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0intervalle de (en demi ton(s))"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0la tierce est dite"
-                }
-              ]
-            },
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A02"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A04"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0majeure"
-                }
-              ]
-            },
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A01 et demi"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A03"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0mineure"
-                }
-              ]
-            }
-          ]
+      ],
+      "Keyword": "cl\u00E9",
+      "Test": "",
+      "Lexique": "cl\u00E9",
+      "Lexiqueuppercase": "Cl\u00E9"
+    },
+    {
+      "id": 2,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "D\u00E9finition"
+        },
+        {
+          "$type": "topictext",
+          "valeur": "l\u0027ecart entre deux notes s\u0027exprime en tons ou demi-tons"
         }
-      }
-    ],
-    "Keyword": "tierce",
-    "Test": "",
-    "Lexique": "tierce",
-    "Lexiqueuppercase": "Tierce",
-    "Definition": [
-      "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 3 degr\u00E9s successifs"
-    ]
-  },
-  {
-    "topicelements": [
-      {
-        "$type": "topictableau",
-        "tableau": {
-          "rowlist": [
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0intervalle de en ton(s)"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0intervalle de en demi-ton(s)"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": true,
-                  "content": "\u00A0la quinte est dite"
-                }
-              ]
-            },
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A04"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A08"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0augment\u00E9e"
-                }
-              ]
-            },
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A03 et demi"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A07"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0juste"
-                }
-              ]
-            },
-            {
-              "cellsinrow": [
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A03"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A06"
-                },
-                {
-                  "largeur": 1,
-                  "hauteur": 1,
-                  "istitre": false,
-                  "content": "\u00A0diminu\u00E9e"
-                }
-              ]
-            }
-          ]
+      ],
+      "Keyword": "\u00E9cart",
+      "Test": "",
+      "Lexique": "\u00E9cart",
+      "Lexiqueuppercase": "\u00C9cart"
+    },
+    {
+      "id": 3,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "La gamme majeure est d\u00E9finie par la succession d\u0027intervalles suivant "
+        },
+        {
+          "$type": "topictext",
+          "valeur": "1ton,1ton,1/2ton,1ton,1ton,1ton,1/2ton"
+        },
+        {
+          "$type": "topictext",
+          "valeur": "Elle correspond au mode ionien"
+        },
+        {
+          "$type": "topictext",
+          "valeur": "La gamme de Do majeur est constitu\u00E9e dans l\u0027ordre des notes do,r\u00E9,mi,fa,sol,la,si"
+        },
+        {
+          "$type": "topictext",
+          "valeur": "Le tableau ci-dessous permet de choisir la note de d\u00E9part et voir la gamme correspondante avec les notes qui se retrouvent \u00E9ventuellement alt\u00E9r\u00E9es."
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
         }
-      }
-    ],
-    "Keyword": "quinte",
-    "Test": "",
-    "Lexique": "quinte",
-    "Lexiqueuppercase": "Quinte",
-    "Definition": [
-      "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 5 degr\u00E9s successifs"
-    ]
-  }
-]
+      ],
+      "Keyword": "gammemajeure",
+      "Test": "",
+      "Lexique": "gamme majeure",
+      "Lexiqueuppercase": "Gamme majeure"
+    },
+    {
+      "id": 4,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Un mode correspond \u00E0 une suite de notes s\u00E9par\u00E9es par des intervalles donn\u00E9s"
+        },
+        {
+          "$type": "topictext",
+          "valeur": "En partant de la gamme de Do majeur  , do r\u00E9 mi fa sol la si do, si l\u0027on commence par do, c\u0027est le ode ionien caract\u00E9ris\u00E9 par les intervalles visibles dans le tableau ci-dessous"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        },
+        {
+          "$type": "topictext",
+          "valeur": "En commen\u00E7ant par r\u00E9  et en conservant les m\u00EAmes notes, les intervalles se trouvent modifi\u00E9s"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        },
+        {
+          "$type": "topictext",
+          "valeur": "de m\u00EAme chaque fois que l\u0027on change la note de d\u00E9part"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        },
+        {
+          "$type": "topictext",
+          "valeur": "ce mode \u00E9olien en commen\u00E7ant par la sixi\u00E8me note correspond \u00E0 la gamme mineure."
+        },
+        {
+          "$type": "topictext",
+          "valeur": "les intervalles sont 1,1/2,1,1,1/2,1,1"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "mode",
+      "Test": "",
+      "Lexique": "mode",
+      "Lexiqueuppercase": "Mode"
+    },
+    {
+      "id": 5,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Le tabeau ci-dessous indique les intervalles caract\u00E9risant ce mode"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "modedorien",
+      "Test": "",
+      "Lexique": "mode dorien",
+      "Lexiqueuppercase": "Mode dorien"
+    },
+    {
+      "id": 6,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Le tabeau ci-dessous indique les intervalles caract\u00E9risant ce mode"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "modeionien",
+      "Test": "",
+      "Lexique": "mode ionien",
+      "Lexiqueuppercase": "Mode ionien"
+    },
+    {
+      "id": 7,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Le tabeau ci-dessous indique les intervalles caract\u00E9risant ce mode"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa#"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "si"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "modelidien",
+      "Test": "",
+      "Lexique": "mode lidien",
+      "Lexiqueuppercase": "Mode lidien"
+    },
+    {
+      "id": 8,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Le tabeau ci-dessous indique les intervalles caract\u00E9risant ce mode"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9b"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mib"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "solb"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "lab"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sib"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "modelocryen",
+      "Test": "",
+      "Lexique": "mode locryen",
+      "Lexiqueuppercase": "Mode locryen"
+    },
+    {
+      "id": 9,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Le tabeau ci-dessous indique les intervalles caract\u00E9risant ce mode"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mi"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "la"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sib"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "modemixolidien",
+      "Test": "",
+      "Lexique": "mode mixolidien",
+      "Lexiqueuppercase": "Mode mixolidien"
+    },
+    {
+      "id": 10,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Le tabeau ci-dessous indique les intervalles caract\u00E9risant ce mode"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9b"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mib"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "lab"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sib"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "modephrygien",
+      "Test": "",
+      "Lexique": "mode phrygien",
+      "Lexiqueuppercase": "Mode phrygien"
+    },
+    {
+      "id": 11,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "Le tabeau ci-dessous indique les intervalles caract\u00E9risant ce mode"
+        },
+        {
+          "$type": "topictableaumode",
+          "tableaumode": {
+            "indexofrowcellex": 3,
+            "indexofcellexinrow": 0,
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en 1/2 ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "2"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Intervalle en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": " 1/2"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "1"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Degr\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "I"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "II"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "III"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "IV"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "V"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VI"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "VII"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "Ex"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "do"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "r\u00E9"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "mib"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "fa"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sol"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "lab"
+                  },
+                  {
+                    "largeur": 2,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "sib"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0"
+                  }
+                ]
+              }
+            ]
+          },
+          "x": 0
+        }
+      ],
+      "Keyword": "mode\u00E9olien",
+      "Test": "",
+      "Lexique": "mode\u00E9olien",
+      "Lexiqueuppercase": "Mode\u00E9olien"
+    },
+    {
+      "id": 12,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 5 degr\u00E9s successifs"
+        },
+        {
+          "$type": "topictableau",
+          "tableau": {
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0intervalle de en ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0intervalle de en demi-ton(s)"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0la quinte est dite"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A04"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A08"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0augment\u00E9e"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A03 et demi"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A07"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0juste"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A03"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A06"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0diminu\u00E9e"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "Keyword": "quinte",
+      "Test": "",
+      "Lexique": "quinte",
+      "Lexiqueuppercase": "Quinte"
+    },
+    {
+      "id": 13,
+      "topicelements": [
+        {
+          "$type": "topictext",
+          "valeur": "intervalle entre les deux notes extr\u00EAmes d\u0027un ensemble de 3 degr\u00E9s successifs"
+        },
+        {
+          "$type": "topictableau",
+          "tableau": {
+            "rowlist": [
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0intervalle de (en ton(s))"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0intervalle de (en demi ton(s))"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": true,
+                    "content": "\u00A0la tierce est dite"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A02"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A04"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0majeure"
+                  }
+                ]
+              },
+              {
+                "cellsinrow": [
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A01 et demi"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A03"
+                  },
+                  {
+                    "largeur": 1,
+                    "hauteur": 1,
+                    "istitre": false,
+                    "content": "\u00A0mineure"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "Keyword": "tierce",
+      "Test": "",
+      "Lexique": "tierce",
+      "Lexiqueuppercase": "Tierce"
+    }
+  ]
+}
