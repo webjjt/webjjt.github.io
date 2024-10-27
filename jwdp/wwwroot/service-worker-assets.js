@@ -29,7 +29,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-u2T\/6KfhvJrXLFfJOcZJ3k62gQYwAFLOngqWB1QjhOg=",
+      "hash": "sha256-pkCVvO92rsZXevY3RriebjpBhsLKWq5Kefem6SbXieI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,7 +37,7 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-iseRt6pzrYVqx3\/seYmn\/7JEiVVS39ZveoCpKkHTlNs=",
+      "hash": "sha256-8+MXj2Y+ft06+A6k7bSFlJLMLEeOAnuDqxEg3swPwH8=",
       "url": "_framework\/jwdp.Client.dll"
     },
     {
@@ -477,5 +477,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "GbOqYS9N"
+  "version": "UG6mFWuD"
 };
