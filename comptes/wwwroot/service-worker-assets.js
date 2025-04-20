@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "4ujLng1D",
+  "version": "QZw3YGce",
   "assets": [
     {
       "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE/N2bYWOctiv/vs8=",
@@ -10,7 +10,7 @@ self.assetsManifest = {
       "url": "Comptes.styles.css"
     },
     {
-      "hash": "sha256-aucwqGGgJx8cuV9bro52OFJvu51uYCyeWBqpF7XOSQA=",
+      "hash": "sha256-MOVdQ6PqGX6TCS04oDFTrcYYwqpT36Ex0chQgQkRNxk=",
       "url": "_framework/Comptes.wasm"
     },
     {
@@ -174,7 +174,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-/iRPCE6iMUscfdzmr338KpcT9wEwHqpD2BXdfYbQ6/s=",
+      "hash": "sha256-gJZ+8Pi9F9i9bl5nPXg5d8nubnrc2W6mjijOiaFLUw0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -354,11 +354,11 @@ self.assetsManifest = {
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-rKFBRR44T7GymJtZ/vWdCKKDRfTA7ebgVvGfgGDCg1Q=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-1Q4RzUZDrQQFx/eNoCPyHSpDKe1MZIe3Qi7M9I7d/N0=",
       "url": "icon-512.png"
     },
     {
