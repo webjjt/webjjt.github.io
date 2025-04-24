@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Comptes",
   "resources": {
-    "hash": "sha256-Aga8feP6aVmivvOwKf83Y/+B/DHKW/ly/BMpbQ2CpXQ=",
+    "hash": "sha256-LeUQz0IInKcvCfZ7m30ZhJxPPi6+0soXb+uoCTQW/3o=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Comptes.wasm": "sha256-Dc11yrkZqFh/3cURkRtrp7+VRamyrZLqQTTmZBXL3p0=",
+      "Comptes.wasm": "sha256-1PrUlppbPyPcG633Kg0JgX6tcvLT9Iub3uMu2TH6uR4=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-E4wU1jfWewC/nItQgi9N+Pm4ZVwJwCojVygLYG66gmU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-IRQswCNJV1MHjcSJaD2dsYTDkAuqzD1nuGqQqTM8MB4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-kZnNIsXACvcOqXZW3pDHB9Cd/VmWMw+58Nw78lw5yQA=",
