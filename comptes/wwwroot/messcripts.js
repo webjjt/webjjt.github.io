@@ -13,3 +13,6 @@
     anchorElement.remove();
     URL.revokeObjectURL(url);
 }
+window.triggerClick = function (elt) {
+    elt.click();
+}
