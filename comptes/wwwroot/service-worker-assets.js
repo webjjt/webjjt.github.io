@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "bFn5exiZ",
+  "version": "lqArfjAH",
   "assets": [
     {
       "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE/N2bYWOctiv/vs8=",
@@ -10,7 +10,7 @@ self.assetsManifest = {
       "url": "Comptes.styles.css"
     },
     {
-      "hash": "sha256-1XywrthKkh+ZmTaBkHWllmVQawPC3foPE4G+owk8FXg=",
+      "hash": "sha256-zSrloiGSMPJ2uPagfUq3hG979Kd5/INAhpQz7OxsKt4=",
       "url": "_framework/Comptes.wasm"
     },
     {
@@ -154,7 +154,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-RbhUHKX/6KJ732/j37LDetQZCWhkvi+Rg89qGN0klj4=",
+      "hash": "sha256-UwpYhW53XcJntsY+2zij+PnF79fJ/zkYMa/YFe7EApc=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -174,7 +174,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-Zw0JXOELi3c5+2CSYKvD6z2+W+CpL+kZhzAp1iFYw/c=",
+      "hash": "sha256-buFYKiI2cVQkAHoi1/JwI9ZZPfCkuQwtI+Z6R9HMed8=",
       "url": "_framework/blazor.boot.json"
     },
     {
