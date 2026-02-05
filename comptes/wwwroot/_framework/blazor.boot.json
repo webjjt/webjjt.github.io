@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Comptes",
   "resources": {
-    "hash": "sha256-1gyURBNo+3idrBeX1DDd6MhQbVt0txCYfMnJDfodop4=",
+    "hash": "sha256-HPuQuZlyJbRCDKijkPVG226vkfAxFwIRFylsPUdtVOg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-rM/ZD/2PYkpeuq8WysI8CRA05dlYTbcnoQ8VXmzJh7E="
     },
@@ -52,13 +52,13 @@
       "System.Private.Uri.wasm": "sha256-8rGmy/Z/BCNiN462Ro/ZBhgMSxzYSNKCMTd8rkGe/7s=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-obpfktlMMZRd/6+94Eqsz43u4IBXSwphEA0oRmrGRrE=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-YmgtgWlfbvj5RTsFfz7u825pTP9VVPvjdhDLA6QhLTE=",
-      "System.Runtime.wasm": "sha256-UwpYhW53XcJntsY+2zij+PnF79fJ/zkYMa/YFe7EApc=",
+      "System.Runtime.wasm": "sha256-lw5nh4YiIe3PwGyH2vIHVqZWDqeQWKCIH1nDu7GXJwM=",
       "System.Text.Encodings.Web.wasm": "sha256-W1+3Cs/g9HhgLy8QR8yJAQbxhEi61ZFQGNgOUretBKQ=",
       "System.Text.Json.wasm": "sha256-eVwB70yS44AYhbPqXNlMj/eFdCKMz5yOQulYpVdup0c=",
       "System.Text.RegularExpressions.wasm": "sha256-Ukj7tVGZb/g+WTwwSJGqzhOVN+1qqhZR6Xaak9GMX5U=",
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "System.Private.CoreLib.wasm": "sha256-NmlNK+fOfUlQnhCXDQdSK/DW/aMyHYlTh2rEO9nk0iE=",
-      "Comptes.wasm": "sha256-8E54yzXinHJ4H9ala9FI8eUKtsBij84XdcZUjvus09k="
+      "Comptes.wasm": "sha256-g/4UmyRx6SWHht0Z+uVaxVEYLCptWwYdcJcRq0BygNQ="
     }
   },
   "cacheBootResources": true,
