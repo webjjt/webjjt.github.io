@@ -10,7 +10,7 @@
             console.info('new version found');
         }
 
-    );
+    });
 
     navigator.serviceWorker.register('service-worker.js')
         .then(registration => {
