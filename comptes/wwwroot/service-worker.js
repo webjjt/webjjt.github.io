@@ -41,6 +41,8 @@ async function onActivate(event) {
         .map(key => caches.delete(key)));
     await self.clients.claim();
     // Tell clients an update is ready
+
+    console.info('onactivate update ready');
     const clients = await self.clients.matchAll({ includeUncontrolled: true });
     clients.forEach(c => c.postMessage({ type: 'PWA_UPDATED' }));
 }
