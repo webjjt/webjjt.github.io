@@ -10,9 +10,12 @@
         .then(registration => {
             console.info(`Service worker registration successful (scope: ${registration.scope})`);
             registration.onupdatefound = () => {
+                console.info(`onupdatefound`);
                 const installingServiceWorker = registration.installing;
                 installingServiceWorker.onstatechange = () => {
+                    console.info('onstatchanged');
                     if (installingServiceWorker.state === 'installed') {
+                        console.info('goto resolve';)
                         resolve(!!navigator.serviceWorker.controller);
                     }
                 }
