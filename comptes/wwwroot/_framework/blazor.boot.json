@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Comptes",
   "resources": {
-    "hash": "sha256-HPuQuZlyJbRCDKijkPVG226vkfAxFwIRFylsPUdtVOg=",
+    "hash": "sha256-UFfv/7OylOkd0dx1hwlXu0MTsOYk/dqYAmCFKoxQPfw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-rM/ZD/2PYkpeuq8WysI8CRA05dlYTbcnoQ8VXmzJh7E="
     },
@@ -58,7 +58,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-Ukj7tVGZb/g+WTwwSJGqzhOVN+1qqhZR6Xaak9GMX5U=",
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "System.Private.CoreLib.wasm": "sha256-NmlNK+fOfUlQnhCXDQdSK/DW/aMyHYlTh2rEO9nk0iE=",
-      "Comptes.wasm": "sha256-g/4UmyRx6SWHht0Z+uVaxVEYLCptWwYdcJcRq0BygNQ="
+      "Comptes.wasm": "sha256-WtqAfRso0dwDWjpxK1HnV62MIiCck1QjB9yyV+tA1V0="
     }
   },
   "cacheBootResources": true,
