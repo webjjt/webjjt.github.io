@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "NTB2VvkP",
+  "version": "zSqiaMwF",
   "assets": [
     {
       "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE/N2bYWOctiv/vs8=",
@@ -374,7 +374,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-b9vNkSf31TFk9guC4DVT6WLci8BfHsQAHHcyKglmAwo=",
+      "hash": "sha256-nSpwvK/y9+u3KnoKbFhp88u6pJL8BNnWjgrxykR8dRo=",
       "url": "index.html"
     },
     {
@@ -435,7 +435,7 @@ self.assetsManifest = {
     },
     {
       "hash": "sha256-RVg1hejeR6LfSxOryiOqP/jDzmL3Mh0k3wWL7Y27IW4=",
-      "url": "pwaupdate.js"
+      "url": "pwaUpdates.js"
     },
     {
       "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
