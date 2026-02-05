@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Comptes",
   "resources": {
-    "hash": "sha256-UuK0xVOgFiLv3vSavM1YXT0r2BHwdOcue/5BOJEa99w=",
+    "hash": "sha256-03fBgeXUNQwXfmuKnHrheCjb8xCoC7GTuJGJas0f2AY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-rM/ZD/2PYkpeuq8WysI8CRA05dlYTbcnoQ8VXmzJh7E="
     },
@@ -40,7 +40,7 @@
       "System.ComponentModel.Primitives.wasm": "sha256-6Hwgl0LKk+itehV9g/ZRk1huyoA5VX7I59GYNTTYmWs=",
       "System.ComponentModel.TypeConverter.wasm": "sha256-KiFBbQ4r49OdAo05xRTYKoL2zDBWwNOY94NLh4fSFg0=",
       "System.ComponentModel.wasm": "sha256-LhJJEJ3iG2a04R9QyKFhRpkVTpEn74e9ukCtx8oGZ40=",
-      "System.Console.wasm": "sha256-CPUpsOPVlxH36cm2dHRRl2xzqEvx7rhQGCw8ORdZyho=",
+      "System.Console.wasm": "sha256-BjgFC4MOnL5ErhEP82WdXm7nm18mlQLRZManWnN/Spo=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-LVaSUZMM+KeUvvPXd/SH287g+cQ2Oc7LD2wKO7MaH9U=",
       "System.Linq.Expressions.wasm": "sha256-18g1fq5krqrkhImHF29t5zdCxlBn+wUsdUUVyC8snz0=",
       "System.Linq.wasm": "sha256-ubLnuzBnhrIBAnXWbYUCkfDGjUS/mVZZ0FnNDxM6eB4=",
@@ -58,7 +58,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-Ukj7tVGZb/g+WTwwSJGqzhOVN+1qqhZR6Xaak9GMX5U=",
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "System.Private.CoreLib.wasm": "sha256-NmlNK+fOfUlQnhCXDQdSK/DW/aMyHYlTh2rEO9nk0iE=",
-      "Comptes.wasm": "sha256-KDare3Tjgy25S/b3wF6QXnaYpznnrlQTYFJCD5qUibw="
+      "Comptes.wasm": "sha256-7XMcVbjbZVFi2P2K/hEHWHCbQn928nx5sFBkS0NEWVQ="
     }
   },
   "cacheBootResources": true,

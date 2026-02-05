@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "L4rWYl5W",
+  "version": "NTB2VvkP",
   "assets": [
     {
       "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE/N2bYWOctiv/vs8=",
@@ -10,7 +10,7 @@ self.assetsManifest = {
       "url": "Comptes.styles.css"
     },
     {
-      "hash": "sha256-KDare3Tjgy25S/b3wF6QXnaYpznnrlQTYFJCD5qUibw=",
+      "hash": "sha256-7XMcVbjbZVFi2P2K/hEHWHCbQn928nx5sFBkS0NEWVQ=",
       "url": "_framework/Comptes.wasm"
     },
     {
@@ -102,7 +102,7 @@ self.assetsManifest = {
       "url": "_framework/System.ComponentModel.wasm"
     },
     {
-      "hash": "sha256-CPUpsOPVlxH36cm2dHRRl2xzqEvx7rhQGCw8ORdZyho=",
+      "hash": "sha256-BjgFC4MOnL5ErhEP82WdXm7nm18mlQLRZManWnN/Spo=",
       "url": "_framework/System.Console.wasm"
     },
     {
@@ -174,7 +174,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-Cf/NqQ996+bKMoTQKga4MBlgj2bDSvi0CpVewr9FcuI=",
+      "hash": "sha256-/qX/XAmqeVzqF+6XBpfgR2bNVMVMF3gBcjdtorfwNnA=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -432,6 +432,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-XvFKirsfDteAoiF9q4Dritou3YPbm3zv57prUbU65r0=",
       "url": "messcripts.js"
+    },
+    {
+      "hash": "sha256-RVg1hejeR6LfSxOryiOqP/jDzmL3Mh0k3wWL7Y27IW4=",
+      "url": "pwaupdate.js"
     },
     {
       "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
