@@ -15,7 +15,7 @@
                 installingServiceWorker.onstatechange = () => {
                     console.info('onstatchanged');
                     if (installingServiceWorker.state === 'installed') {
-                        console.info('goto resolve';)
+                        console.info('goto resolve');
                         resolve(!!navigator.serviceWorker.controller);
                     }
                 }
