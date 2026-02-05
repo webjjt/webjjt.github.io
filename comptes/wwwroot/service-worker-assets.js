@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "+Vpgb+uT",
+  "version": "L4rWYl5W",
   "assets": [
     {
       "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE/N2bYWOctiv/vs8=",
@@ -374,7 +374,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-4/+awMA9aDErjDjpgrzEk561yt0W4ND4J5csyP1wYBE=",
+      "hash": "sha256-b9vNkSf31TFk9guC4DVT6WLci8BfHsQAHHcyKglmAwo=",
       "url": "index.html"
     },
     {
@@ -438,7 +438,7 @@ self.assetsManifest = {
       "url": "sample-data/weather.json"
     },
     {
-      "hash": "sha256-BUpiIPP9HDMCN05P9vwxGhyMhnUriNHJsCCJEW/eSJU=",
+      "hash": "sha256-volUR1itKDf7WxoenUk/7tL67Nfl47xKickQm/igsaY=",
       "url": "sw-registrator.js"
     }
   ]
