@@ -5,8 +5,14 @@
         reject(errorMessage);
         return;
     }
+    navigator.serviceWorker.addEventListener('message', (e) => {
+        if (e.data?.type === 'PWA_UPDATED') {
+            console.info('new version found');
+        }
 
-    navigator.serviceWorker.register('service-worker.published.js')
+    
+
+    navigator.serviceWorker.register('service-worker.js')
         .then(registration => {
             console.info(`Service worker registration successful (scope: ${registration.scope})`);
             registration.onupdatefound = () => {
@@ -29,6 +35,8 @@
 });
 
 window.registerForUpdateAvailableNotification = (caller, methodName) => {
+   
+
 
     window.updateAvailable.then(isUpdateAvailable => {
         console.info('suite de updatavailable');
