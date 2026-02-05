@@ -30,10 +30,11 @@
 window.registerForUpdateAvailableNotification = (caller, methodName) => {
 
     window.updateAvailable.then(isUpdateAvailable => {
-
+        console.info('suite de updatavailable');
         if (isUpdateAvailable) {
             console.info('isupdateavailable goto caller')
             caller.invokeMethodAsync(methodName).then();
         }
+        console.info('sortie de registerforupdate');
     });
 };

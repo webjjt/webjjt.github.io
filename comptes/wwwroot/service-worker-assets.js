@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "5mdlSetF",
+  "version": "+OFvF8NS",
   "assets": [
     {
       "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE/N2bYWOctiv/vs8=",
@@ -438,7 +438,7 @@ self.assetsManifest = {
       "url": "sample-data/weather.json"
     },
     {
-      "hash": "sha256-D2cFs87HfGCrZ7mDyA2iCRiDxe68zYfOClPoNp9sU58=",
+      "hash": "sha256-IqoJyHA96d5OCofYXSfHRjT1EjQUtERuoOsYx+KRHkY=",
       "url": "sw-registrator.js"
     }
   ]
