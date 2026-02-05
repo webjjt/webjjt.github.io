@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "AWFmSqnM",
+  "version": "W0TGk5Qs",
   "assets": [
     {
       "hash": "sha256-9NXJ841I9AsGwCwIqsULlS8C4+fE/N2bYWOctiv/vs8=",
@@ -10,7 +10,7 @@ self.assetsManifest = {
       "url": "Comptes.styles.css"
     },
     {
-      "hash": "sha256-gKGvpSUtaa8kaw/rZHYFuz/AzEb73s6xcgozc8hpa+E=",
+      "hash": "sha256-8E54yzXinHJ4H9ala9FI8eUKtsBij84XdcZUjvus09k=",
       "url": "_framework/Comptes.wasm"
     },
     {
@@ -174,7 +174,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-YAFPUCqKziD1I4WNuDOq90eNgteiEYu3lY8n32pr4Ps=",
+      "hash": "sha256-OXra9rCpnNEUlJCHXl9zqsMxGxGMPe8uatGFdyhD0Jc=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -214,7 +214,7 @@ self.assetsManifest = {
       "url": "comptes192.design"
     },
     {
-      "hash": "sha256-5YjhHTOUcdCqnBxMRjUCOL3IQzBUbNh2lnbVfTzwk+E=",
+      "hash": "sha256-KoSbOXVJGucY9fBixQhh488UXECCSlDEk+kr6s31bu4=",
       "url": "comptes512.design"
     },
     {
@@ -360,6 +360,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "url": "favicon.ico"
+    },
+    {
+      "hash": "sha256-owNjilg5/JDEDJ5ZoqdgoJ0CublCohiqCf9XE2eEDuU=",
+      "url": "icon-192 - Copie.png"
     },
     {
       "hash": "sha256-owNjilg5/JDEDJ5ZoqdgoJ0CublCohiqCf9XE2eEDuU=",
