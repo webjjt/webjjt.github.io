@@ -1,4 +1,5 @@
 ﻿window.updateAvailable = new Promise((resolve, reject) => {
+    console.info('js in updateAvailable');
     if (!('serviceWorker' in navigator)) {
         const errorMessage = `This browser doesn't support service workers`;
         console.error(errorMessage);
@@ -28,6 +29,7 @@
 
 window.registerForUpdateAvailableNotification = (caller, methodName) => {
 
+    console.info(' js in registerForUpdateAvailableNotification');
     window.updateAvailable.then(isUpdateAvailable => {
 
         if (isUpdateAvailable) {

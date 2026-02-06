@@ -1,4 +1,4 @@
-/* Manifest version: cyjYzXkY */
+/* Manifest version: A01F9ZoJ */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -21,7 +21,7 @@ async function onInstall(event) {
     console.info('Service worker: Install');
 
     //ajout pour suivre les mises � jour
-    self.skipWaiting();
+    //self.skipWaiting();
 
     // Fetch and cache all matching items from the assets manifest
     const assetsRequests = self.assetsManifest.assets
