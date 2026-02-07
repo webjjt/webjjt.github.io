@@ -37,3 +37,7 @@ window.registerForUpdateAvailableNotification = (caller, methodName) => {
         }
     });
 };
+window.RegisterService = () => {
+    console.info('Register worker withot update notification');
+    navigator.serviceWorker.register('service-worker.js');
+};
