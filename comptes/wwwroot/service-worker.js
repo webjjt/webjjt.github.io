@@ -1,4 +1,4 @@
-/* Manifest version: HXrE5r2z */
+/* Manifest version: UHJPjdLv */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -7,7 +7,7 @@ self.addEventListener('install', event => event.waitUntil(onInstall(event)));
 self.addEventListener('activate', event => event.waitUntil(onActivate(event)));
 self.addEventListener('fetch', event => event.respondWith(onFetch(event)));
 
-const cacheNamePrefix = 'offline-cache-';
+const cacheNamePrefix = 'comptes-offline-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
 console.info(cacheName);
 const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
