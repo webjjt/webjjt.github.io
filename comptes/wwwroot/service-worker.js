@@ -1,4 +1,4 @@
-/* Manifest version: aXblsQ0G */
+/* Manifest version: Vbr4LEF3 */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -46,7 +46,7 @@ async function onActivate(event) {
 
     console.info('onactivate update ready');
     const clients = await self.clients.matchAll({ includeUncontrolled: true });
-    clients.forEach(c => c.postMessage({ type: 'PWA_UPDATED' }));
+    
 }
 
 async function onFetch(event) {

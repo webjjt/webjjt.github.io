@@ -16,6 +16,8 @@
                     console.info('worker onstatechange');
                     console.info(installingServiceWorker.state);
                     if (installingServiceWorker.state === 'installed') {
+
+                        console.info(' sw-registrator new version installed');
                         resolve(!!navigator.serviceWorker.controller);
                     }
                 }
