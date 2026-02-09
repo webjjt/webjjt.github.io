@@ -38,6 +38,6 @@ window.registerForUpdateAvailableNotification = (caller, methodName) => {
     });
 };
 window.RegisterService = () => {
-    console.info('Register worker withot update notification');
+    console.info('Register worker without update notification');
     navigator.serviceWorker.register('service-worker.js');
 };
