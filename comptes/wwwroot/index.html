@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Comptes</title>
 
-    <!--<base href="/comptes/wwwroot/" />  base créée dans le script pour éviter des problèmes de chemin avec les link rel--> 
+    <base href="/" />  <!--base créée dans le script pour éviter des problèmes de chemin avec les link rel--> 
 
 
 
@@ -44,10 +44,10 @@
         console.log(window.location.pathname);
 
         //création de la balise base ici pour éviter des problèmes avec les link rel
-        const base = document.createElement("base");
-        base.setAttribute('href', "/");
+       // const base = document.createElement("base");
+       // base.setAttribute('href', "/");
 
-        //var base = document.getElementsByTagName('base')[0]; plus utilisé car créé au dessus
+        var base = document.getElementsByTagName('base')[0]; <!--plus utilisé car créé au dessus-->
         //la page par defaut doit avoir une pageroute =/ et pas vide
 
         for (let i = 0; i < path.length; i++) {
