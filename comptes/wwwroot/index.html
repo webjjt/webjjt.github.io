@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Comptes</title>
 
-    <base href="/" />  <!--base créée dans le script pour éviter des problèmes de chemin avec les link rel--> 
+    <base href="/comptes/wwwroot" />  <!--base créée dans le script pour éviter des problèmes de chemin avec les link rel--> 
 
 
 
@@ -76,13 +76,13 @@
     les link rel sont mis avec fetchpriority=low pour bien prendre base ->href caculé par le script au préalable, sinon il prend le base mis en tête du document
         cela permet de lancer en développement sans avoir les erreurs de chargeent des link a
         -->
-    <link fetchpriority="low" rel="stylesheet" href="./css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" href="./css/app.css" />
+    <link fetchpriority="low" rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
     <!--<link fetchpriority="low" rel="icon" type="image/png" href="favicon.png" />-->
-    <link fetchpriority="low" href="./Comptes.styles.css" rel="stylesheet" />
-    <link fetchpriority="low" href="./manifest.webmanifest" rel="manifest" />
-    <link fetchpriority="low" rel="apple-touch-icon" sizes="512x512" href="./icon-512.png" />
-    <link fetchpriority="low" rel="apple-touch-icon" sizes="192x192" href="./icon-192.png" />
+    <link fetchpriority="low" href="Comptes.styles.css" rel="stylesheet" />
+    <link fetchpriority="low" href="manifest.webmanifest" rel="manifest" />
+    <link fetchpriority="low" rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link fetchpriority="low" rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
 </head>
 
 <body>
